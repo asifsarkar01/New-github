@@ -1,6 +1,7 @@
 div{
-    margin: 50px;
-    border:10px solid lightpink;
-    width: 300px;
-    box-shadow: 10px 10px 10px blueviolet;
+     margin: 50px;
+    border:10px solid lightpink; 
+    width:  300px; 
+    box-shadow:  10px 10px 10px blueviolet;
+   
 }
